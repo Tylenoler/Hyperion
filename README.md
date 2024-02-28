@@ -1,3 +1,3 @@
 # Hyperion
 
-![Alt text](Hyperion.png)
+![Alt text](Hyperion2.png)
